@@ -1,5 +1,19 @@
 # AK Tennis Collection
 
+AK tennis collection é um webapp para armazenar seus items de consumo favoritos. Nesse caso, tênis.
+
+As tecnologias usadas neste app são:
+
+* Nextjs
+  * tailwindcss
+  * sweetalert2
+  * react-lazy-load-image-component
+* Nestjs
+  * typescript
+  * mongoose
+  * express
+  * multer(Salvar arquivos de imagens localmente)
+
 ## Galeria
 
 
