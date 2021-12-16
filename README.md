@@ -1,8 +1,8 @@
 # AK Tennis Collection
 
-AK tennis collection é um webapp para armazenar seus items de consumo favoritos. Nesse caso, tênis.
+AK tennis collection é um webapp para salvar seus items de consumo favoritos. Nesse caso, tênis.
 
-As tecnologias usadas neste app são:
+As tecnologias usadas no app são:
 
 * Nextjs
   * tailwindcss
